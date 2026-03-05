@@ -20,9 +20,7 @@ Telegram-бот для приёма заявок от клиентов с сис
 - SQLite
 - Asyncio
 
-📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moancap-srn&show_icons=true&theme=radical)
+📊![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moancap-srn&show_icons=true&theme=radical)
 
 🛠 Технологии
 
